@@ -15,6 +15,8 @@ topictest - tpublisher
 topictest2 - tsubscriber
 - subscribe node: kw_aruco_py 패키지로부터 마커의 위치 및 자세 데이터를 subscribe
 
+https://youtu.be/99rW5R8d02s
+
 노드 그래프
 ![rosgraph2](https://user-images.githubusercontent.com/59414764/102018984-f2fc6680-3db3-11eb-9522-5a7c702170cf.png)
 
