@@ -7,6 +7,7 @@ kw_aruco_py
 - 의존 패키지: cv_bridge, geometry_msgs, image_transfer, message_generation, rospy, sesnsor_msgs, std_msgs
 
 // topictest, topictest2는 kw_aruco_py를 사용하기 위한 예시 통신 노드입니다.
+
 topictest - tpublisher
 - publish node: 'c'키 입력으로 kw_aruco_py 패키지에 전송 on 메세지 publish
 
